@@ -1,0 +1,2 @@
+# Do not remove this line, otherwise mod_rewrite rules will stop workingRewriteBase /
+DirectoryIndex index.html index.php index.htm 

@@ -1,0 +1,73 @@
+#navbar ul{
+list-style-type:none;
+}
+#navbar a{
+text-decoration:none;
+padding:5px;
+}
+#navbar a:link,#navbar a:visited{
+display:block;
+color:#7f007f;
+}
+#navbar a:hover,#navbar a:active
+{
+background-color:#007f00;
+color:#ffffff;
+}
+#navbar li{
+background-color:#57ed17;
+padding:10px;
+margin:0px;
+float:left;
+}
+body{
+margin:0px;
+min-width:960px;
+min-height:900px;
+color:#FFFFFF;
+font-size:30px;
+font-family:Jokerman;
+background-color:#1c1b18;
+background-image:url('../masterpagephotos/woven.jpg');
+background-repeat:repeat;
+}
+#page{
+margin:auto;
+margin-top:0px;
+width:960px;
+height:900px;
+background-image:url('../masterpagephotos/back.jpg');
+}
+#image{
+margin:25px 10px 10px 10px;
+}
+#image1{
+margin:0px 10px 10px 10px;
+padding-top:20px;
+padding-bottom:20px;
+}
+#navbar{
+float:right;
+font-size:25px;
+margin:20px 55px 20px 0px;
+}
+#home{
+border:3px double #007f7f;
+border-right-color:#00bfbf;
+border-left-width:5px;
+}
+#csi{
+border:3px double #00bfbf;
+border-top-color:#007f7f;
+border-bottom-color:#007f7f;
+}
+#apt{
+border:3px double #00bfbf;
+border-top-color:#007f7f;
+border-bottom-color:#007f7f;
+}
+#us{
+border:3px double #007f7f;
+border-left-color:#00bfbf;
+border-right-width:5px;
+}
